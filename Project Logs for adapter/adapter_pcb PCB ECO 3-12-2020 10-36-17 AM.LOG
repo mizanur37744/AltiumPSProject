@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=D2-2
+Removed Member From Class: ClassName=adapter_sch Member=D2
+Added Pin To Net: NetName=NetD?_2 Pin=Q1-2
+Added Net: Name=NetD?_2

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ1_3 Pin=R8-1
+Change Component Designator: OldDesignator=L NewDesignator=X2
+Change Component Designator: OldDesignator=N NewDesignator=X3
+Added Pin To Net: NetName=NetJ1_2 Pin=R8-1
+Added Room: Name=adapter_sch

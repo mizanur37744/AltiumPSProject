@@ -1,0 +1,5 @@
+Added Component: Designator=R21(R1/4WD - p4.8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R21-2
+Added Member To Class: ClassName=adapter_sch Member=Component R21 Res_Com_radial_bended

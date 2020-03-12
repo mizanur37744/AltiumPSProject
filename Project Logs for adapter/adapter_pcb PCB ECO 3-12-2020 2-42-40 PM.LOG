@@ -1,0 +1,3 @@
+Change Component Comment : Designator=R21 Old Comment=Metal Film New Comment=Res_Com_radial_bended
+Change component parameters: Designator = "R21"; Footprint = "R1/4WD - p4.8"; UniqueID = "\LUPTLDET"
+Change component parameters. Clean all parameters for all variants

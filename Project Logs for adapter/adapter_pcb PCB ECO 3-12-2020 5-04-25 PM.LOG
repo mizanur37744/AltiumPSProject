@@ -1,0 +1,161 @@
+Added Component: Designator=TP1(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP8(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP10(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP11(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP12(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP13(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP14(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP15(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP16(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP17(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP18(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP19(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP20(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP21(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP22(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP23(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP24(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP25(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP26(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP27(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP28(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP29(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP30(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP31(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP32(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP33(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP34(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP35(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP36(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP37(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP38(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP39(TP-R60)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP40(TP-R60)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_2 Pin=TP1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=TP2-1
+Added Pin To Net: NetName=NetC2_1 Pin=TP3-1
+Added Pin To Net: NetName=NetC3_1 Pin=TP4-1
+Added Pin To Net: NetName=NetF1_1 Pin=TP5-1
+Added Pin To Net: NetName=NetF1_2 Pin=TP6-1
+Added Pin To Net: NetName=NetC5_1 Pin=TP7-1
+Added Pin To Net: NetName=NetR5_2 Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Pin To Net: NetName=NetLF1_3 Pin=TP10-1
+Added Pin To Net: NetName=NetJ1_3 Pin=TP11-1
+Added Pin To Net: NetName=GND Pin=TP12-1
+Added Pin To Net: NetName=NetCX1_2 Pin=TP13-1
+Added Pin To Net: NetName=NetC5_2 Pin=TP14-1
+Added Pin To Net: NetName=NetD2_2 Pin=TP15-1
+Added Pin To Net: NetName=NetD4_K Pin=TP16-1
+Added Pin To Net: NetName=NetR8_2 Pin=TP17-1
+Added Pin To Net: NetName=NetC6_2 Pin=TP18-1
+Added Pin To Net: NetName=NetD3_A Pin=TP19-1
+Added Pin To Net: NetName=NetC10_1 Pin=TP20-1
+Added Pin To Net: NetName=NetC8_1 Pin=TP21-1
+Added Pin To Net: NetName=GND Pin=TP22-1
+Added Pin To Net: NetName=NetR12_2 Pin=TP23-1
+Added Pin To Net: NetName=NetR15_2 Pin=TP24-1
+Added Pin To Net: NetName=NetD5_K Pin=TP25-1
+Added Pin To Net: NetName=NetD5_A Pin=TP26-1
+Added Pin To Net: NetName=GND Pin=TP27-1
+Added Pin To Net: NetName=NetD6_A Pin=TP28-1
+Added Pin To Net: NetName=NetC11_2 Pin=TP29-1
+Added Pin To Net: NetName=NetC13_1 Pin=TP30-1
+Added Pin To Net: NetName=NetC15_1 Pin=TP31-1
+Added Pin To Net: NetName=GND Pin=TP32-1
+Added Pin To Net: NetName=NetQ3_1 Pin=TP33-1
+Added Pin To Net: NetName=GND Pin=TP34-1
+Added Pin To Net: NetName=GND Pin=TP35-1
+Added Pin To Net: NetName=NetC15_2 Pin=TP36-1
+Added Pin To Net: NetName=NetC14_1 Pin=TP37-1
+Added Pin To Net: NetName=NetC7_2 Pin=TP38-1
+Added Pin To Net: NetName=NetR27_2 Pin=TP39-1
+Added Pin To Net: NetName=NetR13_2 Pin=TP40-1
+Added Member To Class: ClassName=adapter_sch Member=Component TP1 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP2 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP3 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP4 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP5 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP6 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP7 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP8 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP9 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP10 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP11 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP12 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP13 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP14 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP15 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP16 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP17 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP18 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP19 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP20 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP21 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP22 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP23 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP24 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP25 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP26 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP27 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP28 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP29 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP30 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP31 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP32 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP33 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP34 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP35 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP36 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP37 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP38 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP39 TESTPOINT
+Added Member To Class: ClassName=adapter_sch Member=Component TP40 TESTPOINT
+Added Room: Name=adapter_sch
