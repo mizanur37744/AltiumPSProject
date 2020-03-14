@@ -1,0 +1,5 @@
+Change component parameters: Designator = "R8"; Footprint = "RESC3216X70N"; UniqueID = "\ATRXACMB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206 (3216 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"

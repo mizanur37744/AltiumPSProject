@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR8_2 Pin=R8-1
+Change Component Footprint: Designator=R8 Old Footprint=RESC3216N_ZERO New Footprint=RESC3216X70N
+Change Component Comment : Designator=R8 Old Comment=Thick Film New Comment=RES_NL_1206
+Change Component Kind : Designator=R8 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "R8"; Footprint = "RESC3216X70N"; UniqueID = "\ATRXACMB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1206 (3216 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=R8-2
+Removed Pin From Net: NetName=NetR8_2 Pin=TP16-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Member To Class: ClassName=adapter_sch Member=Component D2 DIODE_SCHOTTKY_V20120C_TH
+Added Room: Name=adapter_sch

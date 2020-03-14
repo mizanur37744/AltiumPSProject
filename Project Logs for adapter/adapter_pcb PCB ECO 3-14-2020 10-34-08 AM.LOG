@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR8_2 Pin=R8-1
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP17
+Added Component: Designator=TP16(TP-R60)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_2 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=TP16-1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD1_2
+Added Member To Class: ClassName=adapter_sch Member=Component TP17 TESTPOINT
