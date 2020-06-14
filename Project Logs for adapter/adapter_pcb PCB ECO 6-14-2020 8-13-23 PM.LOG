@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=wire2 Pin=R28-2
+Change Component Footprint: Designator=R28 Old Footprint=RESC3216N_ZERO New Footprint=RESC3216X70N
+Added Pin To Net: NetName=wire Pin=R28-2

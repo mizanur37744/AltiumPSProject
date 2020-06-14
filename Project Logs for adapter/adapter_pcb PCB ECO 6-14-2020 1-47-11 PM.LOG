@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Added Component: Designator=R29(2012[0805])
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Vishay/Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CRCW12060000Z0EA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "spec*\?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-0.0ECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R14-2
+Added Pin To Net: NetName=NetC10_2 Pin=R29-1
+Added Net: Name=NetC10_2
+Added Room: Name=adapter_sch

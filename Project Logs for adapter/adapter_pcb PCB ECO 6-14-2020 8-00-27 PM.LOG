@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=wire Pin=R28-2
+Added Pin To Net: NetName=wire2 Pin=C9-2
+Added Pin To Net: NetName=wire2 Pin=R28-2
+Added Pin To Net: NetName=wire2 Pin=TP22-1
+Added Net: Name=wire2
+Added Room: Name=adapter_sch

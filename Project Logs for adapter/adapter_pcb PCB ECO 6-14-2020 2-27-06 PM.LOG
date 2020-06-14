@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=R28-2
+Added Component: Designator=TP22(TP-R60)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC8_2 Pin=R28-2
+Added Pin To Net: NetName=NetC9_2 Pin=TP22-1
+Added Member To Class: ClassName=adapter_sch Member=Component TP22 TESTPOINT

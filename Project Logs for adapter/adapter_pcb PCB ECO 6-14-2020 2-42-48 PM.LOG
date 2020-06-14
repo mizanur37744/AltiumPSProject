@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetC8_2 Pin=C11-1
+Added Pin To Net: NetName=NetC9_2 Pin=R28-1
+Added Pin To Net: NetName=NetC8_2 Pin=U1-4
+Added Member To Class: ClassName=adapter_sch Member=Component TP22 TESTPOINT

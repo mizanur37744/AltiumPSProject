@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=wire2 Pin=R28-1
+Added Pin To Net: NetName=wire Pin=R28-2

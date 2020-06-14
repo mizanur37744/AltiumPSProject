@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=T1-3
+Removed Pin From Net: NetName=GND Pin=T1-3
+Added Room: Name=adapter_sch
