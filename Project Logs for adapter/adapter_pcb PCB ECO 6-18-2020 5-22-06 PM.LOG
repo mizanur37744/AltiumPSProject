@@ -1,0 +1,22 @@
+Added Component: Designator=D(LED_151054RS03000)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "151054RS03000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/151054RS03000/Wurth%20Electronics%20Inc./view-part/609365/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K 1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D-C
+Added Pin To Net: NetName=NetC2_1 Pin=R30-1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=V+
+Added Pin To Net: NetName=NetD_A Pin=D-A
+Added Pin To Net: NetName=NetD_A Pin=R30-2
+Added Net: Name=NetD_A
+Added Member To Class: ClassName=adapter_sch Member=Component D 151054RS03000
+Added Member To Class: ClassName=adapter_sch Member=Component R30 RES_NL_0603

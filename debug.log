@@ -1249,3 +1249,5 @@
 [0616/093131:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0616/093136:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0616/093141:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0619/190407:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0619/190412:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
