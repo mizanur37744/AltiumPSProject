@@ -1,0 +1,4 @@
+Added Component: Designator=TP41(TP-R60)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ1_3 Pin=TP41-1
+Added Member To Class: ClassName=adapter_sch Member=Component TP41 TESTPOINT
